@@ -1,0 +1,1 @@
+/bin/spark-submit --class com.socgen.a2d.xpression.Driver --master local[n] build/libs/xpress-ur-self-all-1.0-SNAPSHOT.jar
